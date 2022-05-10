@@ -39,6 +39,18 @@
     <ClInclude Include="Matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DSPhanSo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="INTEGER.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MYINT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CExpr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cSoPhuc.cpp">
@@ -63,6 +75,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DSPhanSo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="INTEGER.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MYINT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CExpr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
